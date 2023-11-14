@@ -1,0 +1,91 @@
+body {
+margin: 0 auto;
+width: 1000px;
+}
+h1{
+    text-align: center;
+}
+.s1{
+    text-align: right;
+}
+.div1{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+margin: 0 auto;
+}
+.s2{
+    text-align: center;
+    left: -53px;
+    position: relative;
+}
+.s3{
+    text-align: center;
+    left: -75px;
+    position: relative;
+}
+#seria{
+width: 35px;
+}
+#numer{
+    width: 100px;
+    }
+.s4{
+    text-align: center;
+    left: -50px;
+    position: relative;
+}
+.s5{
+    text-align: center;
+    left: -37px;
+    position: relative;
+}
+.s6{
+    text-align: center;
+    left: -21px;
+    position: relative;
+}
+.s7{
+    text-align: center;
+    left: -23px;
+    position: relative;
+}
+.s8{
+    text-align: center;
+    left: -81px;
+    position: relative;
+}
+.s9{
+    text-align: center;
+    left: -58px;
+    position: relative;
+}
+.s10{
+    text-align: center;
+    left: -34px;
+    position: relative;
+}
+.s11{
+    text-align: center;
+    left: -35px;
+    position: relative;
+}
+.s12{
+    text-align: left;
+    left: 135px;
+    position: relative;
+}
+.s13{
+    text-align: center;
+}
+#informacja{
+    width: 25px;
+    height: 15px;
+}
+#button{
+    background-color: rgb(64, 64, 173);
+    color: white;
+    border-radius: 10px;
+    width: 90px;
+    height: 40px;
+    left: -30px;
+}
